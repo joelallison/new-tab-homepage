@@ -1,0 +1,29 @@
+body {
+  background-color: #F6F9F5;
+  color: #373837;
+  font-family: sans-serif;
+
+}
+.welcome-box {
+  border-radius: 6px;
+  color: #373837;
+  padding-top: 13px;
+  padding-bottom: 7px;
+  text-align: center;
+  background-color: #C2C4C1;
+  border-color: #444544;
+  border-width: 1px;
+  border-style: groove;
+  width: 500px;
+  margin: 2px auto;
+}
+.header {
+  border-left: 6px solid #323332;
+  text-align: left;
+  font-weight: bold;
+  background-color: #535453;
+  color: #E3E5E2;
+  padding: 9px;
+  margin-bottom: 13.5px;
+
+}
